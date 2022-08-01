@@ -6,7 +6,6 @@ import resume from "../images/resume.jpg";
 import html from "../images/html.png";
 import css from "../images/css.png";
 import javascript from "../images/javascript.png";
-import sql from "../images/sql.png";
 
 function Resume() {
   return (
@@ -19,7 +18,7 @@ function Resume() {
           <h3 className="text-center mt-3">Click image for my resume!</h3>
           <div className="text-center mt-3">
             <a
-              href="https://drive.google.com/file/d/1IHTezjZatwZdYPpu41erNZ6eqANcyvor/view?usp=sharing"
+              href="https://drive.google.com/file/d/1njENBTPUvMcG1Sl5ubODHUikp2ng-Y_F/view"
               target="_blank"
               rel="noreferrer"
             >
