@@ -49,9 +49,6 @@ function Resume() {
                 <Col>
                   <Image src={javascript} />
                 </Col>
-                <Col>
-                  <Image src={sql} />
-                </Col>
               </Row>
             </Container>
           </div>

@@ -1,7 +1,7 @@
 import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
-import Molly from "../images/molly.png";
+import Molly from "../images/molly-headshot.jpg";
 import Typewriter from "typewriter-effect";
 
 function Intro() {
@@ -26,7 +26,7 @@ function Intro() {
           </div>
         </Col>
         <Col style={{ display: 'flex', justifyContent: 'center'}}>
-            <img src={Sherreka} alt="molly headshot"  />
+            <img src={Molly} alt="molly-headshot.jpg"/>
         </Col>
       </Row>
     </Container>
