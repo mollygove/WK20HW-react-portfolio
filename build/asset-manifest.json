@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/WK20HW-react-portfolio/static/css/main.22031d75.css",
+    "main.js": "/WK20HW-react-portfolio/static/js/main.0c3b7a98.js",
+    "static/media/molly-headshot.jpg": "/WK20HW-react-portfolio/static/media/molly-headshot.3513cd217e84d2f84bcb.jpg",
+    "static/media/project3.jpg": "/WK20HW-react-portfolio/static/media/project3.6671e844885caac427b3.jpg",
+    "static/media/project1.jpg": "/WK20HW-react-portfolio/static/media/project1.d5538ee5eead18273223.jpg",
+    "static/media/project2.jpg": "/WK20HW-react-portfolio/static/media/project2.e7e7df96340de1c577a6.jpg",
+    "static/media/resume.jpg": "/WK20HW-react-portfolio/static/media/resume.39cee569d295dc2f8ca6.jpg",
+    "index.html": "/WK20HW-react-portfolio/index.html",
+    "main.22031d75.css.map": "/WK20HW-react-portfolio/static/css/main.22031d75.css.map",
+    "main.0c3b7a98.js.map": "/WK20HW-react-portfolio/static/js/main.0c3b7a98.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22031d75.css",
+    "static/js/main.0c3b7a98.js"
+  ]
+}
