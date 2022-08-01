@@ -7,16 +7,11 @@ This is a sample portfolio built using React.
 https://
 
 # Table of Contents
-License
-Description
-Deployed Link
-Installation
-Usage
-Tests
-Contributors
-Contact
-Installation
-None
+
+* Usage
+* Tests
+* Contributors
+* Contact
 
 # Usage
 To serve as a portfolio website which showcases technical projects and contact information.
@@ -30,6 +25,6 @@ Molly Gove
 # Contact
 If you have any questions about this project please contact: Molly Gove
 
-# Github: mollygove
+# Github: mollygove https://github.com/mollygove/WK20HW-react-portfolio
 
 # Email: molly.gove@comcast.net
