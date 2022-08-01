@@ -4,7 +4,7 @@
 This is a sample portfolio built using React.
 
 # Deployed Link
-https://
+https://mollygove.github.io/WK20HW-react-portfolio/
 
 # Table of Contents
 
