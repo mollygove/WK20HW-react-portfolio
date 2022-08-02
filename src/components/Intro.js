@@ -13,7 +13,7 @@ function Intro() {
             <Typewriter
               options={{
                 strings: [
-                  "<h1>Hey there, my name is <span style='color: ligh blue;'>Molly</span></h1>",
+                  "<h1>Hey there, my name is <span style='color: light blue;'>Molly</span></h1>",
                   "<h1>Welcome to my page!</h1>",
                   "<h1>Thanks for stopping by!</h1>",
                   "<h1>TAKE A LOOK!</h1>",

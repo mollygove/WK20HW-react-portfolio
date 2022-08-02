@@ -15,7 +15,7 @@ function Resume() {
       </h2>
       <Row className="me-auto mt-3">
         <Col>
-          <h3 className="text-center mt-3">Click image for my resume!</h3>
+          <h3 className="text-center mt-3">Click to see my resume!</h3>
           <div className="text-center mt-3">
             <a
               href="https://drive.google.com/file/d/1njENBTPUvMcG1Sl5ubODHUikp2ng-Y_F/view"
