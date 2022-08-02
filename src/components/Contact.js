@@ -14,7 +14,7 @@ const Contact = () => {
 
     emailjs
       .sendForm(
-        'service_7lrqkcn',
+        'service_oum3eyp',
         'template_69lqywi',
         form.current,
         'Uu6oPjsdafP3w83yl'
@@ -28,7 +28,7 @@ const Contact = () => {
         }
       );
   };
-  // service_7lrqkcn
+  // service_oum3eyp
 
   return (
     <Container>
